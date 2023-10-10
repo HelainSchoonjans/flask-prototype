@@ -8,3 +8,8 @@
 ## Building the docker
 
     docker build
+
+## Running tests
+
+    pip install pytest --user
+    python -m pytest
